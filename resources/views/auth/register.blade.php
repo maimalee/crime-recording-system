@@ -1,2 +1,6 @@
-<?php
-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
+
+//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
+@extends('layouts.app')
+@section('content')
+
+@endsection
